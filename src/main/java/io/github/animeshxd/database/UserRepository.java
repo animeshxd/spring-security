@@ -1,4 +1,4 @@
-package io.github.animeshxd;
+package io.github.animeshxd.database;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

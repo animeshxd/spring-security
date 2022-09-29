@@ -6,6 +6,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
+import io.github.animeshxd.database.UserRepository;
 import io.github.animeshxd.model.CustomUser;
 import io.github.animeshxd.model.CustomUserDetails;
 
